@@ -1,0 +1,7 @@
+The assignment description is contained in this pdf file. Also download these files:
+
+hw6graphics.rb
+hw6provided.rb
+hw6assignment.rb
+hw6runner.rb
+As the assignment explains, you will modify and submit only hw6assignment.rb.

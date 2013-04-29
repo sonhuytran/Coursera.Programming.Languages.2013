@@ -1,0 +1,9 @@
+The assignment description is contained in this pdf file. Also download these files:
+
+hw4.rkt (This file is very small.)
+hw4tests.rkt
+These small image files, which are used by the provided testing code. Just put them in the same directory as the code files. 
+dan.jpg   dog.jpg   dog2.jpg   curry.jpg
+Add your code to these files.
+
+Some problems requires using Racket library functions. Our grading scripts will check that you do so. Creating your own function of the same name is not a correct approach. You are free to get help from others on how Racket library functions work.

@@ -1,0 +1,5 @@
+The assignment description is contained in this pdf file. Also download these files:
+
+hw5.rkt
+hw5tests.rkt
+Add your code to these files. Note these files contain some additional instructions on what you should and should not change.
